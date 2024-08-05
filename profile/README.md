@@ -8,7 +8,7 @@ The following GitHub organizations are also part of CZ Biohub Chicago's GitHub p
 
 ----
 Contact us!
-We welcome comments, questions, and inquiries. Please use this form to contact us.
+We welcome comments, questions, and inquiries. Please use [this form](https://www.czbiohub.org/contact/) to contact us.
 
-Interested in working with us? Search our job openings here.
+Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/).
 
