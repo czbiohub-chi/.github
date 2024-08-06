@@ -1,14 +1,14 @@
-![download](https://github.com/user-attachments/assets/afe96758-ca13-4ce8-bb07-e3c6a6cad460)
+<img src="CZ-Biohub-CHI-Color-RGB.png" width="50%" alt="CZ Biohub CHI logo">
 
-The Chan Zuckerberg Biohub Chicago is a nonprofit research institute focused on building engineering technologies to measure biological processes, with a specialization towards human tissue and inflammation. We are dedicated to using these measurements to find the “tipping points” that cause inflammatory disorders.  We work both on a local scale with the University of Chicago, Northwestern University, and the University of Illinois Urbana-Champaign, and nationally within the CZ Biohub Network. As part of the Chan-Zuckerberg inititiative, our work will be freely available to all scientists. 
+[The Chan Zuckerberg Biohub Chicago](https://www.czbiohub.org/chi) is a nonprofit research institute that unites leading academic institutions -- the University of Chicago, Northwestern University, and the University of Illinois Urbana-Champaign -- with CZ Biohub Chicago's innovative research team to pursue an engineering-driven approach to studying human biology. We focus on developing new engineering technologies for precise, molecular-level measurements of biological processes within human tissues, with a special emphasis on the immune system. Our goal is to deepen understanding of and develop treatments for the inflammatory states that underlie many diseases. As a key member of the CZ Biohub Network, we aim to accelerate scientific discovery and advance human health around the world. True to our mission of fostering open science, all our research findings will be freely available to scientists worldwide, furthering collaborative efforts in biomedical research.
+
 
 Affiliated GitHub organizations
 ----
 The following GitHub organizations are also part of CZ Biohub Chicago's GitHub presence:
 
 ----
-Contact us!
+## Contact us!
 We welcome comments, questions, and inquiries. Please use [this form](https://www.czbiohub.org/contact/) to contact us.
 
-Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/).
-
+Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/). 
