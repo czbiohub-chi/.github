@@ -1,14 +1,23 @@
-<img src="CZ-Biohub-CHI-Color-RGB.png" width="50%" alt="CZ Biohub CHI logo">
+# Biohub Inflammation Grand Challenge Models
 
-[The Chan Zuckerberg Biohub Chicago](https://www.czbiohub.org/chi) is a nonprofit research institute that unites leading academic institutions -- the University of Chicago, Northwestern University, and the University of Illinois Urbana-Champaign -- with CZ Biohub Chicago's innovative research team to pursue an engineering-driven approach to studying human biology. We focus on developing new engineering technologies for precise, molecular-level measurements of biological processes within human tissues, with a special emphasis on the immune system. Our goal is to deepen understanding of and develop treatments for the inflammatory states that underlie many diseases. As a key member of the CZ Biohub Network, we aim to accelerate scientific discovery and advance human health around the world. True to our mission of fostering open science, all our research findings will be freely available to scientists worldwide, furthering collaborative efforts in biomedical research.
+**AI models and tooling for the Inflammation Grand Challenge (IGC)** — a Chicago-based Biohub initiative to model, measure, and modulate inflammation.
 
+## Overview
 
-Affiliated GitHub organizations
-----
-The following GitHub organizations are also part of CZ Biohub Chicago's GitHub presence:
+Inflammation drives more than half of the world's deadliest diseases, yet it has never been possible to observe it directly as it unfolds in living tissue. This repository contains robust, reproducible machine learning models developed to decode inflammatory processes and accelerate biomedical discovery.
 
-----
-## Contact us!
-We welcome comments, questions, and inquiries. Please use [this form](https://www.czbiohub.org/contact/) to contact us.
+## What's Inside
 
-Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/). 
+- Advanced models spanning molecular to tissue-scale inflammatory dynamics
+- Reproducible code and training pipelines
+- Evaluation tools and supporting resources
+
+## Partner Institutions
+
+- Northwestern University
+- The University of Chicago
+- The University of Illinois Urbana-Champaign (UIUC)
+
+## Contact
+
+For questions, comments, or collaboration on AI and immunology, please get in touch with **[Aly Azeem Khan](http://people.cs.uchicago.edu/~aakhan/)**.
