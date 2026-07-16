@@ -1,10 +1,8 @@
-# Biohub Inflammation Grand Challenge AI Models
-
-**AI models and tooling for the Inflammation Grand Challenge (IGC)**, which is a Biohub initiative to model, measure, and modulate inflammation.
+# Biohub Inflammation Grand Challenge
 
 ## Overview
 
-Inflammation drives more than half of the world's deadliest diseases, yet it has never been possible to observe it directly as it unfolds in living tissue. This repository contains robust, reproducible machine learning models developed to decode inflammatory processes and accelerate biomedical discovery.
+Inflammation drives more than half of the world's deadliest diseases, yet it has never been possible to observe it directly as it unfolds in living tissue. This repository contains robust, reproducible AI and machine learning models developed to decode inflammatory processes and accelerate biomedical discovery.  
 
 ## Partner Institutions
 
