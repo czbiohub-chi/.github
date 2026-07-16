@@ -12,4 +12,4 @@ Inflammation drives more than half of the world's deadliest diseases, yet it has
 
 ## Contact
 
-For questions, comments, or collaboration on AI and immunology, please get in touch with **[Aly Khan](http://ttic.uchicago.edu/~aakhan)**.
+For questions, comments, or collaboration on AI and immunology, please get in touch with **[Aly A. Khan](http://ttic.uchicago.edu/~aakhan)**.
